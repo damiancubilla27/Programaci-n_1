@@ -1,6 +1,7 @@
 ###### **Programación 1 - UTN Avellaneda**
 ## Descripción
 Este repositorio contiene los trabajos prácticos, ejercicios y proyectos realizados durante la cursada de Programación 1 en la Tecnicatura en Programación de la UTN Avellaneda. El curso abarcó una amplia gama de temas fundamentales en la programación, proporcionando una base sólida para el desarrollo de software. Todos los ejercicios y proyectos fueron desarrollados en el lenguaje de programación Python 🐍.
+
 Contenidos:
 
 - Estructuras de Control
