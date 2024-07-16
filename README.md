@@ -4,32 +4,32 @@ Este repositorio contiene los trabajos prácticos, ejercicios y proyectos realiz
 
 Contenidos:
 
-- Estructuras de Control
+- Estructuras de Control: 
 	-Condicionales
-- Bucles
+- Bucles: 
 	-Iteración con diferentes tipos de datos
 	-Uso de bucles en diversas estructuras de datos
-- Estructuras de Datos
+- Estructuras de Datos: 
 	-Listas
 	-Diccionarios
 	-Tuplas
 	-Conjuntos
-- Listas de Diccionarios
+- Listas de Diccionarios: 
 	-Manejo y manipulación de listas que contienen diccionarios
-- Funciones
+- Funciones: 
 	-Definición y uso de funciones
 	-Argumentos y parámetros
-- Strings
+- Strings: 
 	-Manipulación de cadenas de texto
 	-Operaciones básicas y avanzadas con strings
-- Alta, Baja y Modificación
+- Alta, Baja y Modificación: 
 	-Implementación de operaciones CRUD (Create, Read, Update, Delete) en estructuras de datos
-- Expresiones Regulares (Regex)
+- Expresiones Regulares (Regex): 
 	-Uso de regex para la búsqueda y manipulación de texto
-- Programación Orientada a Objetos (POO)
+- Programación Orientada a Objetos (POO): 
 	-Clases y objetos
 	-Herencia
 	-Polimorfismo
 	-Encapsulamiento
-- Funciones Lambda
+- Funciones Lambda: 
 	-Uso de funciones lambda para operaciones simples y complejas
