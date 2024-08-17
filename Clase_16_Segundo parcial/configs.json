@@ -1,0 +1,26 @@
+{
+    "especialidades":[{
+        "odontologia" : 4000,
+        "medico clinico" : 4000,
+        "psicologo" : 4000,
+        "traumatologia" : 4000
+    }],
+    "obras sociales" : [{
+        "Swiss medical" : {
+            "descuento" : 0.4,
+            "extra" : 0.1
+        },
+        "Apres" : {
+            "descuento" : 0.25,
+            "extra" : 0.03
+        },
+        "PAMI" : {
+            "descuento" : 0.6,
+            "extra" : 0.03
+        },
+        "Particular" : {
+            "descuento" : 0.05,
+            "extra" : 0.15
+        }
+    }]
+}

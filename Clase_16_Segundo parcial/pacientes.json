@@ -1,0 +1,94 @@
+{
+    "pacientes" : [
+        {
+            "id": 1,
+            "nombre": "Juan",
+            "apellido": "Perez",
+            "dni": "12345678",
+            "edad": 30,
+            "fecha_registro": "07-07-1994",
+            "obra_social": "Apres"
+        },
+        {
+            "id": 2,
+            "nombre": "Ana",
+            "apellido": "Garcia",
+            "dni": "27654321",
+            "edad": 25,
+            "fecha_registro": "15-08-1998",
+            "obra_social": "Swiss Medical"
+        },
+        {
+            "id": 3,
+            "nombre": "Carlos",
+            "apellido": "Lopez",
+            "dni": "23456789",
+            "edad": 40,
+            "fecha_registro": "20-05-1984",
+            "obra_social": "PAMI"
+        },
+        {
+            "id": 4,
+            "nombre": "Maria",
+            "apellido": "Martinez",
+            "dni": "34567890",
+            "edad": 35,
+            "fecha_registro": "18-12-1991",
+            "obra_social": "Particular"
+        },
+        {
+            "id": 5,
+            "nombre": "Luis",
+            "apellido": "Fernandez",
+            "dni": "45678901",
+            "edad": 50,
+            "fecha_registro": "03-02-1964",
+            "obra_social": "Apres"
+        }, 
+        {
+            "id": 6,
+            "nombre": "Somerset",
+            "apellido": "Zanneli",
+            "dni": "39465053",
+            "edad": 24,
+            "fecha_registro": "06-30-2000",
+            "obra_social": "PAMI"
+        }, 
+        {
+            "id": 7,
+            "nombre": "Gal",
+            "apellido": "Renoden",
+            "dni": "30465888",
+            "edad": 22,
+            "fecha_registro": "05-12-2002",
+            "obra_social": "PAMI"
+        }, 
+        {
+            "id": 8,
+            "nombre": "Dolly",
+            "apellido": "Pennycook",
+            "dni": "24949566",
+            "edad": 27,
+            "fecha_registro": "01-07-1997",
+            "obra_social": "Particular"
+        }, 
+        {
+            "id": 9,
+            "nombre": "Warde",
+            "apellido": "Freeman",
+            "dni": "35465123",
+            "edad": 19,
+            "fecha_registro": "09-12-2005",
+            "obra_social": "Apres"
+        }, 
+        {
+            "id": 10,
+            "nombre": "Caroljean",
+            "apellido": "Moseley",
+            "dni": "40800950",
+            "edad": 28,
+            "fecha_registro": "13-01-1996",
+            "obra_social": "Particular"
+        }
+    ]
+}
